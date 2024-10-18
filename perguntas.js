@@ -12,7 +12,7 @@
 
  ) 
    
-)
+
  criaCartao(
      "lingua inglesa",
      "como que fala escola em inglês",
